@@ -1,0 +1,6 @@
+# 区块链dapp游戏Golden高端NFT卡牌盲盒 艾格拉斯 NFT游戏系统
+
+注明，链上运行，没有管理后台<br>艾格拉斯卡牌需求<br>卡片介绍：<br>一批艾泽拉斯卡有 6 个种族 人族、野兽、兽人、恶魔、丛林、中立。<br>每个种族将首先发布 4 张勇士卡（共 24 张卡）<br>每个种族对应等级有的一张金卡<br>在旅行商店购买、合成、玩家之间交易来获得。<br>NFT 盲盒<br>NFT 释放魔法卡包，可以获得更多卡牌，你会获得 1 个随机种族的普通卡牌。<br>NFT 卡包有一定几率获得更高品质的卡牌。<br>卡牌可通过开启魔法卡包、旅行商店购买、玩家之间交易市场买卖获得。<br>NFT 盲盒开启费用及手续费：<br>开启一次：TOKEN<br>抽卡概率|：<br>普通卡有 80%的初始抽签概率<br>稀有卡有 15%的初始抽签概率<br>史诗卡有 example.com%的初始抽签概率<br>传奇卡有 example.com%的初始抽签概率<br>合成<br>通过组合三张相同的卡花 10 个 TOKEN 手续费可以获得一张金卡，概率可调。<br>1、如果合成不成功，返还 NFT 卡牌，手续费不返还。<br>2、如果合成成功卡牌销毁，同时扣除手续费，得到更高一等级的卡牌。<br>幻境之赏金塔：<br>1、 用户选择一张卡牌参加赏金塔挑战，三座赏金塔用户可根据自己卡牌强弱选择，闯关通过可获 得塔顶宝藏。 2、 每次挑战赏金塔需要支付 5 个 TOKEN 的费用，每座赏金塔每天最多可以挑战一次，可挑战次 数 24 小时候自动恢复<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/Gin4N" style="color: red;">https://mega-file.org/Gin4N</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
